@@ -2,7 +2,7 @@
 
 Library file for SPI flash memory.
 Written by Shadman Sakib
-2ra Technology Ltd.
+in2gravity
  */ 
 
 /*
